@@ -2,7 +2,7 @@
 
 Modern Gaming Artwork (Logos, Favicons, Backgrounds, etc.)
 
-## Logo
+## Badge/ Logo
 
 Thanks to [Daniel Prew's post on Dribble.com](https://dribbble.com/shots/1645114-MG-Monogram) for inspiring our Modern Gaming logo design!
 
