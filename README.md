@@ -13,7 +13,7 @@ Thanks to [Daniel Prew's post on Dribble.com](https://dribbble.com/shots/1645114
 
 ## Image Files
 
-All image files have been optimized using `jpegoptim` (quality `90`) and `optipng` (optimization level `9`).
+All image files have been optimized using `jpegoptim` (quality `90`), `optipng` (optimization level `9`) and `svgo`.
 
 ## License
 
